@@ -11,6 +11,6 @@ Preamble:
                 7) README.txt
 
 Launching Instructions:
-              1) the the make command in the terminal
+              1) Go to the directory of this project and type "make" in the terminal/shell
               IMPORTANT: the name of the executable is fp.
               2) run the code with valgrind ./fp
